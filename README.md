@@ -1,0 +1,1 @@
+# nmtbr1001-spotbugs-gradle-plugin
